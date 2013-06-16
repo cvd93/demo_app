@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Trash::Application.config.secret_token = '83d6dd9162832ebbf6fbbfebe8750af0d454a781a2d4568aedaf4b6e9223ad0a71d6b60736db17cd01077f4195143316304dd4fb1ffefeb4af947978fa895579'
+Trash::Application.config.secret_token = '2e4a99868a8a8693b021ad67dec7e11e944a67ecc920cc2dacaf6a62592d10fc4c2af56611e3cdea7ee9630154b1de610d251a0e39954dfe340ecf6677c895da'
